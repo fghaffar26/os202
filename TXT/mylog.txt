@@ -14,3 +14,5 @@ ZCZC W01 30 L03 Github related
 ZCZC W01 45 L04 Github Page related
 ZCZC W01 30 L99 Other (Diskusi melalui Discord)
 ZCZC W01 60 L99 Other (Diskusi melalui Google meet)
+ZCZC W01 200 L99 Other (Setup debian dan belajar command linux)
+
