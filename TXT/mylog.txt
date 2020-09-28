@@ -14,6 +14,11 @@ ZCZC W01 30 L03 Github related
 ZCZC W01 45 L04 Github Page related
 ZCZC W01 30 L99 Other (Diskusi melalui Discord)
 ZCZC W01 60 L99 Other (Diskusi melalui Google meet)
-ZCZC W01 45 L25 C-language: study
+ZCZC W01 30 L25 C-language: study
 ZCZC W01 100 L26 Movie: relax
-ZCZC W01 120 L21 VirtualBox: install GNU/Linux, try example: Cicak bin Kadal) 
+ZCZC W01 90 L21 VirtualBox: install GNU/Linux, try example: Cicak bin Kadal) 
+ZCZC W01 15 L14 Assignment #4
+ZCZC W01 30 L14 Assignment #5
+ZCZC W01 10 L14 Assignment #6
+ZCZC W01 10 L14 Assignment #7
+ZCZC W01 30 L14 Assignment #8
