@@ -1,0 +1,76 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+ZCZC W00 10 L00 General Log
+ZCZC W00 100 L02 ZOOM related
+ZCZC W00 20 L05 GSGS related
+ZCZC W00 90 L03 Github related
+ZCZC W00 45 L04 Github Page related
+ZCZC W00 30 L99 Other (Diskusi melalui Discord)
+
+ZCZC W01 10 L00 General Log
+ZCZC W01 100 L02 ZOOM related
+ZCZC W01 10 L05 GSGS related
+ZCZC W01 30 L03 Github related
+ZCZC W01 45 L04 Github Page related
+ZCZC W01 30 L99 Other (Diskusi melalui Discord)
+ZCZC W01 60 L99 Other (Diskusi melalui Google meet)
+ZCZC W01 30 L25 C-language: study
+ZCZC W01 100 L26 Movie: relax
+ZCZC W01 90 L21 VirtualBox: install GNU/Linux, try example: Cicak bin Kadal) 
+ZCZC W01 15 L14 Assignment #4
+ZCZC W01 30 L14 Assignment #5
+ZCZC W01 10 L14 Assignment #6
+ZCZC W01 10 L14 Assignment #7
+ZCZC W01 30 L14 Assignment #8
+
+ZCZC W02 100 L02 Zoom Related
+ZCZC W02 30 L01 Scele Related
+ZCZC W02 60 L09 Asdos:asking
+ZCZC W02 60 L05 GSGS Related
+ZCZC W02 60 L01 Scele Related
+ZCZC W02 10 L00 General Log
+ZCZC W02 60 L23 Discord: discussion
+ZCZC W02 25 L12 Assignment #2
+ZCZC W02 20 L13 Assignment #3
+ZCZC W02 15 L14 Assignment #4
+ZCZC W02 20 L15 Assignment #5
+ZCZC W02 50 L16 Assignment #6
+ZCZC W02 15 L17 Assignment #7
+ZCZC W02 7 L18 Assignment #8
+ZCZC W02 10 L19 Assignment #9
+ZCZC W02 100 L26 Movie: relax
+
+ZCZC W03 100 L02 Zoom Related
+ZCZC W03 30 L01 Scele Related
+ZCZC W03 60 L09 Asdos:asking
+ZCZC W03 35 L05 GSGS Related
+ZCZC W03 60 L01 Scele Related
+ZCZC W03 10 L00 General Log
+ZCZC W03 180 L23 Discord: discussion
+ZCZC W03 30 L12 Assignment #2
+ZCZC W03 10 L13 Assignment #3
+ZCZC W03 20 L14 Assignment #4
+ZCZC W03 65 L15 Assignment #5
+ZCZC W03 10 L16 Assignment #6
+ZCZC W03 7 L17 Assignment #7
+ZCZC W03 6 L18 Assignment #8
+ZCZC W03 10 L19 Assignment #9
+ZCZC W03 10 L20 Assignment #10
+ZCZC W03 60 L26 Movie: relax
+
+ZCZC W04 100 L02 Zoom Related
+ZCZC W04 20 L01 Scele Related
+ZCZC W04 10 L09 Asdos:asking
+ZCZC W04 15 L05 GSGS Related
+ZCZC W04 10 L00 General Log
+ZCZC W04 135 L23 Discord: discussion
+ZCZC W04 10 L12 Assignment #2
+ZCZC W04 10 L13 Assignment #3
+Z
+ZCZC W04 5 L15 Assignment #5
+ZCZC W04 5 L16 Assignment #6
+ZCZC W04 5 L17 Assignment #7
+ZCZC W04 3 L18 Assignment #8
+ZCZC W04 5 L19 Assignment #9
+
