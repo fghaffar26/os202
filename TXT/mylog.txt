@@ -74,3 +74,18 @@ ZCZC W04 5 L16 Assignment #6
 ZCZC W04 10 L17 Assignment #7
 ZCZC W04 3 L18 Assignment #8
 ZCZC W04 5 L19 Assignment #9
+
+ZCZC W05 100 L02 Zoom Related
+ZCZC W05 20 L01 Scele Related
+ZCZC W05 10 L05 GSGS Related
+ZCZC W05 10 L00 General Log
+ZCZC W05 75 L23 Discord: discussion
+ZCZC W05 50 L11 Assignment #1
+ZCZC W05 8 L12 Assignment #2
+ZCZC W05 7 L13 Assignment #3
+ZCZC W05 45 L14 Assignment #4
+ZCZC W05 8 L15 Assignment #5
+ZCZC W05 5 L16 Assignment #6
+ZCZC W05 10 L17 Assignment #7
+ZCZC W05 3 L18 Assignment #8
+ZCZC W05 5 L19 Assignment #9
